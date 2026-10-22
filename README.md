@@ -1,4 +1,4 @@
-# Hi there, I'm Dmitriy Kalyuk 👋
+# Hi there, I'm Dmitrii Kalyuk 👋
 ### Lead Software Engineer & Architect | Golang Enthusiast
 
 With **17+ years of professional experience**, I specialize in building scalable Enterprise ecosystems for **Fintech**, **MedTech**, and **E-commerce**. My core expertise lies in transforming complex monolithic legacy applications into high-performance, autonomous micro-frontends and robust microservices.
@@ -35,9 +35,11 @@ Currently, I'm deeply focused on expanding my engineering horizon into cloud-nat
 
 *   **Promsvyazbank:** Engineered the architecture for the **Digital Ruble** and **SBP** (Faster Payments System) using Micro-frontends, reducing time-to-market for new features by 40%.
 *   **Grid Dynamics & Align Technology:** Managed cross-functional MedTech teams delivering 3D-visualization and genomic analysis workflows; enforced strict Quality Gates (Sonar, 80%+ Jest coverage) reducing production defects by 25%.
-*   **EPAM Systems (USA):** Designed and built the frontend architecture for **Genocity** (a comprehensive genomic analysis platform for cancer treatment and DNA sequencing), successfully releasing it to production in 2019. Also architected a global Design System for **Penske Truck Leasing** and doubled legacy-to-Angular migration velocity.
-*   **Vsemayki.ru:** Head of Software Development (CTO). Successfully optimized infrastructure costs during the 2014 crisis, preserving the engineering team and architecting a distributed storage system (MooseFS + BitTorrent Sync) to launch a network of offline print-centers.
-*   **Magora Systems:** Managed an engineering department of 15+ developers. Designed, architected, and delivered complex products from scratch, including **Flexbord.com** (an advanced SaaS sports organizing network and real-time scoreboard system), **Bernsoffroad**, and high-traffic booking widgets integrated with the **YClients** ecosystem.
+*   **EPAM Systems (SPB & USA):**
+    *   *EPAM SPB (2017–2019):* Designed and built the frontend architecture for **Genocity** (a comprehensive genomic analysis platform for cancer treatment and DNA sequencing), successfully releasing it to production.
+    *   *EPAM USA (2019–2020):* Based on successful Genocity release, relocated to the USA to work directly with **Penske Truck Leasing**. Architected a global Design System adopted across 5+ international projects and doubled legacy-to-Angular migration velocity.
+*   **Magora Systems (2015–2017):** Managed an engineering department of 15+ developers. Designed, architected, and delivered complex products from scratch, including **Flexbord.com** (an advanced SaaS sports organizing network and real-time scoreboard system), **Bernsoffroad**, and high-traffic booking widgets integrated with the **YClients** ecosystem.
+*   **Vsemayki.ru (2014–2015):** Head of Software Development (CTO). Successfully optimized infrastructure costs during the 2014 crisis, preserving the engineering team and architecting a distributed storage system (MooseFS + BitTorrent Sync) to launch a network of offline print-centers.
 
 ---
 
@@ -50,5 +52,4 @@ Currently, I'm deeply focused on expanding my engineering horizon into cloud-nat
 
 ### 📫 Connect with Me
 
-*   **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
 *   **Email:** kalyukdo@gmail.com
