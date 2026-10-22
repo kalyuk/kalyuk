@@ -1,4 +1,4 @@
-# Hi there, I'm Dmitrii Kalyuk 👋
+# Hi there, I'm Dmitriy Kalyuk 👋
 ### Lead Software Engineer & Architect | Golang Enthusiast
 
 With **17+ years of professional experience**, I specialize in building scalable Enterprise ecosystems for **Fintech**, **MedTech**, and **E-commerce**. My core expertise lies in transforming complex monolithic legacy applications into high-performance, autonomous micro-frontends and robust microservices.
