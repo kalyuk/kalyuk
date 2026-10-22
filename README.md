@@ -1,4 +1,4 @@
-# Hi there, I'm Dmitrii Kaliuk 👋
+# Hi there, I'm Dmitriy Kalyuk 👋
 ### Lead Software Engineer & Frontend Architect | Golang Enthusiast
 
 With **17+ years of professional experience**, I specialize in building scalable Enterprise ecosystems for **Fintech** (Digital Ruble, Faster Payments System), **MedTech** (3D & DNA Analysis), and **E-commerce**. I have a proven track record of migrating complex legacy monoliths into high-performance micro-frontends and microservices.
